@@ -2,8 +2,8 @@
 
 Integrantes:
 
-Jenifer Arce, 202014993
-Daniel Fernando Gomez Barrera, 201728920
+Jenifer Arce, j.arce@uniandes.edu.co , 202014993 
+Daniel Fernando Gomez Barrera, df.gomezb@uniandes.edu.co , 201728920
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
